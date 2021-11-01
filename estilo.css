@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(24, 86, 219);
+}
+
+header h1 {
+    color: white;
+}
+
+body {
+    background-color: rgb(130, 199, 219);
+}
+
+.menu {
+    text-decoration: none;
+    display: block;
+    padding: 10px 40px;
+}
+
+.menuPrincipal {
+    text-align: center;
+}
